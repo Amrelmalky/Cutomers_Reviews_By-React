@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cutomers_Reviews_By-React/static/css/main.5c026350.css",
+    "main.js": "/Cutomers_Reviews_By-React/static/js/main.6964558e.js",
+    "index.html": "/Cutomers_Reviews_By-React/index.html",
+    "main.5c026350.css.map": "/Cutomers_Reviews_By-React/static/css/main.5c026350.css.map",
+    "main.6964558e.js.map": "/Cutomers_Reviews_By-React/static/js/main.6964558e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c026350.css",
+    "static/js/main.6964558e.js"
+  ]
+}
